@@ -33,4 +33,4 @@ Use the provided SQL script to create the database and tables:
 README.md: Project documentation.
 
 ## Contact
-For any questions or feedback, please contact Fathima Haris.
+For any questions or feedback, please contact me.
